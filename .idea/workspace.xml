@@ -1,13 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39be2dbf-ce16-4203-8979-b392949efffe" name="Default Changelist" comment="" />
+    <list default="true" id="39be2dbf-ce16-4203-8979-b392949efffe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChildComponents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChildParentref.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Errorhandling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EventBind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ForwardRefParentInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Forwardrefinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FunctionClick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Greet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HoverComponents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HttpRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LifeCycle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LifeCycleb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NameList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ParentComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PortalDemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PureCompenent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RenderCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stylesheets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserGreeting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WithCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/fragmentdemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/memoComp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/refsdemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/regularcomponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V91IcfodhRTJLz9fudwC200FVq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +67,33 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Music/micro-user-serv" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-linux-x64/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,11 +117,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576650417067</updated>
-      <workItem from="1576650418407" duration="248000" />
+      <workItem from="1576650418407" duration="21174000" />
+      <workItem from="1576728490803" duration="23157000" />
+      <workItem from="1576820424838" duration="1974000" />
+      <workItem from="1577341232470" duration="467000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576663906868">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="282" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1576663906868" />
+    <state x="173" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576654388698">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="173" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1576654388698" />
+    <state x="824" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576822830501">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="824" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1576822830501" />
+    <state x="314" y="27" width="707" height="741" key="find.popup" timestamp="1576749810187">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="314" y="27" width="707" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1576749810187" />
+    <state x="704" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576729110739">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="704" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1576729110739" />
   </component>
 </project>
