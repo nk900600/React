@@ -2,46 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39be2dbf-ce16-4203-8979-b392949efffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ChildComponents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ChildParentref.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Class.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Columns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Errorhandling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EventBind.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ForwardRefParentInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Forwardrefinput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FunctionClick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Greet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HoverComponents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HttpRequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LifeCycle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LifeCycleb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NameList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ParentComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Person.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PortalDemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PureCompenent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RenderCounter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stylesheets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserGreeting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/WithCounter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fragmentdemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/jsx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/memoComp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/refsdemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/regularcomponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/JsonPlaceholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reduser/streams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/postList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/postList2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/streams/streamCreate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/streams/streamDelete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/streams/streamEdit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/streams/streamPost.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HoverComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HoverComponents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Music/micro-user-serv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,6 +98,12 @@
       <workItem from="1576728490803" duration="23157000" />
       <workItem from="1576820424838" duration="1974000" />
       <workItem from="1577341232470" duration="467000" />
+      <workItem from="1578471319994" duration="16989000" />
+      <workItem from="1578498411666" duration="16874000" />
+      <workItem from="1578564863117" duration="4797000" />
+      <workItem from="1578574509709" duration="1080000" />
+      <workItem from="1578630417412" duration="24000" />
+      <workItem from="1578630456943" duration="17926000" />
     </task>
     <servers />
   </component>
@@ -140,13 +123,29 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="824" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1576822830501" />
+    <state width="604" height="3" key="GridCell.Tab.0.bottom" timestamp="1578485678836">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="3" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578485678836" />
+    <state width="604" height="3" key="GridCell.Tab.0.center" timestamp="1578485678834">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="3" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578485678834" />
+    <state width="604" height="3" key="GridCell.Tab.0.left" timestamp="1578485678833">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="3" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578485678833" />
+    <state width="604" height="3" key="GridCell.Tab.0.right" timestamp="1578485678835">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="3" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578485678835" />
     <state x="314" y="27" width="707" height="741" key="find.popup" timestamp="1576749810187">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="314" y="27" width="707" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1576749810187" />
-    <state x="704" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576729110739">
+    <state x="704" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578642544910">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="704" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1576729110739" />
+    <state x="704" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1578642544910" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Component} from 'react';
 import TodoItmes from "./components/TodoItmes";
 import Greet from "./components/Greet";
 import Welcome from "./components/Class";
@@ -24,15 +24,34 @@ import {Errorhandling} from "./components/Errorhandling";
 
 import  {HoverComponents} from "./components/HoverComponents"
 import {RenderCounter} from "./components/RenderCounter";
-import HttpRequest from "./components/HttpRequest";
-import {PostForm} from "./components/PostForm";
+// import HttpRequest from "./components/HttpRequest";
+// import {PostForm} from "./components/PostForm";
+import {Comments} from "./components/navie_component_approach";
+import ApprovalCard from "./components/ApprovalCard";
+import {Seasons} from "./components/seasons"
+import {SearchBar} from "./form/input";
+import {Controlled} from "./form/Controlled"
+import {Http} from "./form/http"
+import {Images} from "./form/imagesFromapi";
+import Songs from './redux/songsList'
+import SongDetails from './redux/songDetails'
+import PostList from "./redux/postList";
+import App3  from './routers/base'
 
-function App() {
-  return (
+class App extends Component{
+    // onSubmit(term){
+    //     console.log(term)
+    // }
+
+
+    render() {
+
+
+    return (
       <div>
           {/*<ParentComponent />*/}
           {/*<Refsdemo />*/}
-          {/*<Regularcomponent />*/}
+          {/*<Regular/component />*/}
           {/*<ForwardRefParentInput />*/}
           {/*<UserGreeting />*/}
           {/*<NameList />*/}
@@ -56,9 +75,20 @@ function App() {
         {/*<RenderCounter render={(count,Handler) => <HoverComponents count={count} Handler={Handler} /> } />*/}
         {/*<RenderCounter render={(count,Handler) => <HoverComponents count={count} Handler={Handler} /> } />*/}
         {/*<HttpRequest/>*/}
-        <PostForm />
+        {/*<Pos/tForm />*/}
+        {/*<Comments/>*/}
+        {/*<ApprovalCard/>*/}
+        {/*<Seasons />*/}
+        {/*<SearchBar />*/}
+        {/*<Controlled onSubmit={this.onSubmit}/>*/}
+        {/*<Http />*/}
+
+        {/*<Songs />*/}
+        {/*<SongDetails />*/}
+       <App3 />
+
       </div>
   );
-}
+}}
 
 export default App;
